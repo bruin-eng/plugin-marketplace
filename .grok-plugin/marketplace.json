@@ -322,7 +322,7 @@
     },
     {
       "name": "bruin",
-      "description": "Grok integration for Bruin — MetTel's Connectivity Management System for telecom expense, network monitoring, mobility, procurement, and IT ticketing across thousands of sites and 2,200+ vendors. Ships an expert Bruin Public API skill: OAuth 2.0 client-credentials, ticket creation with per-product note schemas for Smart Phones, Cable, Ethernet, Business Line, Starlink, SD-WAN, and PIAB, inventory/site/user endpoints, ticket-lifecycle webhooks, and multi-call workflows.",
+      "description": "Grok integration for Bruin — A Connectivity Management System for telecom expense, network monitoring, mobility, procurement, and IT ticketing across thousands of sites and 2,200+ vendors. Ships an expert Bruin Public API skill: OAuth 2.0 client-credentials, ticket creation with per-product note schemas for Smart Phones, Cable, Ethernet, Business Line, Starlink, SD-WAN, and PIAB, inventory/site/user endpoints, ticket-lifecycle webhooks, and multi-call workflows.",
       "category": "development",
       "source": {
         "source": "url",
